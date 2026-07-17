@@ -14,33 +14,28 @@ public:
             freq[num]++;
         }
 
-        vector<ll> pairDiv(maxVal+1);
-        for(int d=1; d<=maxVal; d++){
+        vector<ll> exactGCD(maxVal+1);
+
+        for(int d=maxVal; d>=1; d--){
             int count = 0;
             for(int mul=d; mul<=maxVal; mul += d){
                 count += freq[mul];
             }
-            pairDiv[d] = 1LL * count * (count-1)/2;
-        }
-
-        vector<ll> exactGCD(maxVal+1);
-        for(int d=maxVal; d>=1; d--){
-            exactGCD[d] = pairDiv[d];
+            exactGCD[d] = 1LL * count * (count-1)/2;
+            
             for(int mul=d+d; mul<=maxVal; mul += d){
                 exactGCD[d] -= exactGCD[mul];
             }
         }
 
-        vector<ll> preSum(maxVal+1);
-        preSum[0] = 0;
         for(int i=1; i<=maxVal; i++){
-            preSum[i] = preSum[i-1] + exactGCD[i];
+            exactGCD[i] += exactGCD[i-1];
         }
 
-        vector<int> res;
-        for(ll q:queries){
-            int g = upper_bound(preSum.begin(), preSum.end(), q) - preSum.begin();
-            res.push_back(g);
+        vector<int> res(queries.size());
+        for(int i=0; i<queries.size(); i++){
+            int g = upper_bound(exactGCD.begin(), exactGCD.end(), queries[i]) - exactGCD.begin();
+            res[i] = g;
         }
 
         return res;
