@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanKotian/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKotian/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1260-shift-2d-grid](https://github.com/RohanKotian/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -22,6 +23,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanKotian/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RohanKotian/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RohanKotian/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RohanKotian/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanKotian/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
