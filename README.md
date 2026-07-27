@@ -65,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/RohanKotian/Leetcode/tree/master/0355-design-twitter) |
 | [1331-rank-transform-of-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RohanKotian/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/RohanKotian/Leetcode/tree/master/0355-design-twitter) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -163,4 +165,12 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/RohanKotian/Leetcode/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/RohanKotian/Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
