@@ -22,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RohanKotian/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RohanKotian/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/RohanKotian/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/RohanKotian/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/RohanKotian/Leetcode/tree/master/0355-design-twitter) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -172,5 +175,10 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RohanKotian/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/RohanKotian/Leetcode/tree/master/0355-design-twitter) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/RohanKotian/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
