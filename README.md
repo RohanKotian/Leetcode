@@ -8,6 +8,7 @@
 | [0051-n-queens](https://github.com/RohanKotian/Leetcode/tree/master/0051-n-queens) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKotian/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1260-shift-2d-grid](https://github.com/RohanKotian/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -37,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RohanKotian/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -86,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RohanKotian/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -202,4 +205,12 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RohanKotian/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RohanKotian/Leetcode/tree/master/0051-n-queens) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
