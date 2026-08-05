@@ -62,6 +62,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/RohanKotian/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -121,10 +122,12 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKotian/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [3310-remove-methods-from-project](https://github.com/RohanKotian/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKotian/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [3310-remove-methods-from-project](https://github.com/RohanKotian/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
