@@ -12,6 +12,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RohanKotian/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/RohanKotian/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/RohanKotian/Leetcode/tree/master/1406-stone-game-iii) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RohanKotian/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RohanKotian/Leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RohanKotian/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -102,6 +104,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RohanKotian/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RohanKotian/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RohanKotian/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RohanKotian/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -155,6 +158,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RohanKotian/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -233,5 +237,14 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RohanKotian/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RohanKotian/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
