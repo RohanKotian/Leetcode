@@ -90,6 +90,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RohanKotian/Leetcode/tree/master/0127-word-ladder) |
 | [0355-design-twitter](https://github.com/RohanKotian/Leetcode/tree/master/0355-design-twitter) |
 | [1331-rank-transform-of-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RohanKotian/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -142,6 +143,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RohanKotian/Leetcode/tree/master/0127-word-ladder) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKotian/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [3310-remove-methods-from-project](https://github.com/RohanKotian/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -171,6 +173,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/RohanKotian/Leetcode/tree/master/0127-word-ladder) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RohanKotian/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RohanKotian/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -276,4 +279,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RohanKotian/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/RohanKotian/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
