@@ -32,6 +32,7 @@
 | [3731-find-missing-elements](https://github.com/RohanKotian/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RohanKotian/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RohanKotian/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/RohanKotian/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1510-stone-game-iv](https://github.com/RohanKotian/Leetcode/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RohanKotian/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/RohanKotian/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RohanKotian/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RohanKotian/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/RohanKotian/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Graph Theory
 |  |
 | ------- |
