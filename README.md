@@ -33,6 +33,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RohanKotian/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RohanKotian/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/RohanKotian/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3904-smallest-stable-index-ii](https://github.com/RohanKotian/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RohanKotian/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3904-smallest-stable-index-ii](https://github.com/RohanKotian/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
