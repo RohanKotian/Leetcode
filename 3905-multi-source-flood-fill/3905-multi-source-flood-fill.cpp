@@ -1,38 +1,52 @@
 class Solution {
 public:
     int dirs[4][2] = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+
     vector<vector<int>> colorGrid(int n, int m, vector<vector<int>>& sources) {
         vector<vector<int>> grid(n, vector<int> (m, 0));
-        vector<vector<int>> vis(n, vector<int> (m, 0));
+        vector<vector<int>> dist(n, vector<int> (m, -1));
 
-        queue<vector<int>> q;
+        queue<pair<int, int>> q;
         for(auto& src:sources){
-            q.push(src);
-            grid[src[0]][src[1]] = src[2];
+            int r = src[0];
+            int c = src[1];
+            int color = src[2];
+
+            grid[r][c] = max(grid[r][c], color);
+            dist[r][c] = 0;
+
+            q.push({r, c});
         }
 
-        int time = 1;
         while(!q.empty()){
-            int s = q.size();
-            while(s--){
-                auto it = q.front();
-                int r = it[0];
-                int c = it[1];
-                int color = it[2];
+            int sz = q.size();
+
+            while(sz--){
+                auto [r, c] = q.front();
                 q.pop();
 
-                for(auto& dir:dirs){
-                    int nr = r + dir[0];
-                    int nc = c + dir[1];
+                int color = grid[r][c];
 
-                    if(nr>=0 && nr<n && nc>=0 && nc<m && (grid[nr][nc]==0 || (grid[nr][nc] < color && vis[nr][nc]==time))){
+                for(int k=0; k<4; k++){
+                    int nr = r + dirs[k][0];
+                    int nc = c + dirs[k][1];
+
+                    if(nr<0 || nr>=n || nc<0 || nc>=m)
+                        continue;
+
+                    int nd = dist[r][c]+1;
+
+                    if(dist[nr][nc] == -1){
+                        dist[nr][nc] = nd;
                         grid[nr][nc] = color;
-                        vis[nr][nc] = time;
-                        q.push({nr, nc, color});
+
+                        q.push({nr, nc});
+                    }
+                    else if(dist[nr][nc]==nd){
+                        grid[nr][nc] = max(grid[nr][nc], color);
                     }
                 }
             }
-            time++;
         }
         return grid;
     }
