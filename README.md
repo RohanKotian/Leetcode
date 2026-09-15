@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RohanKotian/Leetcode/tree/master/0743-network-delay-time) |
+| [2360-longest-cycle-in-a-graph](https://github.com/RohanKotian/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/RohanKotian/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -166,6 +167,7 @@
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKotian/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/RohanKotian/Leetcode/tree/master/0743-network-delay-time) |
+| [2360-longest-cycle-in-a-graph](https://github.com/RohanKotian/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/RohanKotian/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -173,6 +175,7 @@
 | [0127-word-ladder](https://github.com/RohanKotian/Leetcode/tree/master/0127-word-ladder) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKotian/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/RohanKotian/Leetcode/tree/master/0743-network-delay-time) |
+| [2360-longest-cycle-in-a-graph](https://github.com/RohanKotian/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/RohanKotian/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RohanKotian/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3905-multi-source-flood-fill](https://github.com/RohanKotian/Leetcode/tree/master/3905-multi-source-flood-fill) |
@@ -331,4 +334,16 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RohanKotian/Leetcode/tree/master/0743-network-delay-time) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/RohanKotian/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/RohanKotian/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/RohanKotian/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
