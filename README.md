@@ -25,6 +25,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/RohanKotian/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RohanKotian/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RohanKotian/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RohanKotian/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RohanKotian/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RohanKotian/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -61,6 +62,7 @@
 | [1406-stone-game-iii](https://github.com/RohanKotian/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RohanKotian/Leetcode/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RohanKotian/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/RohanKotian/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Greedy
@@ -207,6 +209,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RohanKotian/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3904-smallest-stable-index-ii](https://github.com/RohanKotian/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -346,4 +349,8 @@
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/RohanKotian/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Li Chao Tree
+|  |
+| ------- |
+| [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 <!---LeetCode Topics End-->
