@@ -35,6 +35,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RohanKotian/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RohanKotian/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/RohanKotian/Leetcode/tree/master/3731-find-missing-elements) |
+| [3804-number-of-centered-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3804-number-of-centered-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RohanKotian/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RohanKotian/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/RohanKotian/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -126,6 +127,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RohanKotian/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RohanKotian/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/RohanKotian/Leetcode/tree/master/3731-find-missing-elements) |
+| [3804-number-of-centered-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3804-number-of-centered-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/RohanKotian/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RohanKotian/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RohanKotian/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3804-number-of-centered-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3804-number-of-centered-subarrays) |
 ## Math
 |  |
 | ------- |
