@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/RohanKotian/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/RohanKotian/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
@@ -73,6 +74,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RohanKotian/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohanKotian/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/RohanKotian/Leetcode/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/RohanKotian/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RohanKotian/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -240,6 +243,7 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -365,4 +369,8 @@
 |  |
 | ------- |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
