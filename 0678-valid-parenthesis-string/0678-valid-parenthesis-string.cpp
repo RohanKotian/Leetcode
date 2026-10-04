@@ -1,41 +1,27 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int n = s.size();
-        vector<bool>prev (n+1, false);
-        vector<bool>curr (n+1, false);
+        int low = 0;
+        int high = 0;
 
-        prev[0] = true;
-
-        for(int i=n-1; i>=0; i--){
-            for(int bal=0; bal<n; bal++){
-
-                bool ans = false;
-                if(s[i] == '('){
-                    ans = prev[bal + 1];
-                }
-                else if(s[i] == ')'){
-                    if(bal > 0){
-                        ans = prev[bal - 1];                        
-                    }
-                }
-                else{
-                    ans = prev[bal];                        
-                    
-                    if(bal <= n){
-                        ans = ans || prev[bal + 1];                        
-                    }
-
-                    if(bal > 0){
-                        ans = ans || prev[bal - 1];
-                    }
-                }
-
-                curr[bal] = ans;
+        for(char& c:s){
+            if(c=='('){
+                low++;
+                high++;
             }
-            prev = curr;
+            else if(c==')'){
+                low--;
+                high--;
+            }
+            else{
+                low--;
+                high++;
+            }
+
+            if(low < 0) low = 0;
+            if(high < 0) return false;
         }
 
-        return prev[0];
+        return low == 0;
     }
 };
