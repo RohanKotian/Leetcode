@@ -11,6 +11,7 @@
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RohanKotian/Leetcode/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/RohanKotian/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/RohanKotian/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RohanKotian/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0922-sort-array-by-parity-ii](https://github.com/RohanKotian/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RohanKotian/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RohanKotian/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -102,6 +104,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/RohanKotian/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/RohanKotian/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/RohanKotian/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
