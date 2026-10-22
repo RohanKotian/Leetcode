@@ -1,22 +1,16 @@
 class Solution {
 public:
     vector<int> limitOccurrences(vector<int>& nums, int k) {
-        int n = nums.size();
+        int freq[101] = {0};
+
+        for(int num:nums){
+            freq[num]++;
+        }
+
         vector<int> res;
-
-        int i = 0;
-        while(i<n){
-            int count = 1;        
-            res.push_back(nums[i]);
-            i++;
-
-            while(i<n && nums[i-1] == nums[i] && count < k){
-                res.push_back(nums[i]);
-                i++;
-                count++;
-            }
-            while(i<n && nums[i-1] == nums[i]){
-                i++;
+        for(int i=1; i<=100; i++){
+            for(int j=0; j<min(freq[i], k); j++){
+                res.push_back(i);
             }
         }
         return res;
