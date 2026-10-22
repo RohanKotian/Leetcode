@@ -43,6 +43,7 @@
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/RohanKotian/Leetcode/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3904-smallest-stable-index-ii](https://github.com/RohanKotian/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/RohanKotian/Leetcode/tree/master/3905-multi-source-flood-fill) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/RohanKotian/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RohanKotian/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RohanKotian/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RohanKotian/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/RohanKotian/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
