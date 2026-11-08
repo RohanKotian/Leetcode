@@ -65,6 +65,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RohanKotian/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/RohanKotian/Leetcode/tree/master/0877-stone-game) |
@@ -152,6 +153,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RohanKotian/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/RohanKotian/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -381,4 +383,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RohanKotian/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
