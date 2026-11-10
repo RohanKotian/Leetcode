@@ -137,6 +137,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/RohanKotian/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RohanKotian/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RohanKotian/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3692-majority-frequency-characters](https://github.com/RohanKotian/Leetcode/tree/master/3692-majority-frequency-characters) |
 | [3731-find-missing-elements](https://github.com/RohanKotian/Leetcode/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3804-number-of-centered-subarrays) |
 ## Enumeration
@@ -227,6 +228,7 @@
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohanKotian/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RohanKotian/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3692-majority-frequency-characters](https://github.com/RohanKotian/Leetcode/tree/master/3692-majority-frequency-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/RohanKotian/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RohanKotian/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RohanKotian/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3692-majority-frequency-characters](https://github.com/RohanKotian/Leetcode/tree/master/3692-majority-frequency-characters) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RohanKotian/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
