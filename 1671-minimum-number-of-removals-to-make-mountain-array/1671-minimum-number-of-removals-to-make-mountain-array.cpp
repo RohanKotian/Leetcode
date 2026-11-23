@@ -38,6 +38,10 @@ public:
             ans = max(ans, dp1[i] + dp2[i] - 1);
         }
 
+        res.clear();
+        dp1.clear();
+        dp2.clear();
+
         return n - ans;
     }
 };
