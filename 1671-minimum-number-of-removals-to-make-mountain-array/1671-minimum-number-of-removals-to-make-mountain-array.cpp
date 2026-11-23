@@ -6,25 +6,38 @@ public:
         vector<int> dp1(n, 1);
         vector<int> dp2(n, 1);
 
-        for(int i=n-1; i>=0; i--){
-            for(int prev=n-1; prev>i; prev--){
-                if(nums[prev] < nums[i] && dp2[i] < dp2[prev] + 1){
-                    dp2[i] = dp2[prev] + 1;
-                }
+        vector<int> res;
+        res.push_back(nums[n-1]);
+
+        for(int i=n-2; i>=0; i--){
+            if(nums[i] > res.back()){
+                res.push_back(nums[i]);
             }
+            else{
+                int ind = lower_bound(res.begin(), res.end(), nums[i]) - res.begin();
+                res[ind] = nums[i];
+            }
+            dp2[i] = res.size();
         }
 
-        int res = 1;
-        for(int i=0; i<n; i++){
-            for(int prev=0; prev<i; prev++){
-                if(nums[prev] < nums[i] && dp1[i] < dp1[prev] + 1){
-                    dp1[i] = dp1[prev] + 1;
-                }
+        res.clear();
+        res.push_back(nums[0]);
+
+        int ans = 0;
+        for(int i=1; i<n; i++){
+            if(nums[i] > res.back()){
+                res.push_back(nums[i]);
             }
+            else{
+                int ind = lower_bound(res.begin(), res.end(), nums[i]) - res.begin();
+                res[ind] = nums[i];
+            }
+            dp1[i] = res.size();
+            
             if(dp1[i] > 1 && dp2[i] > 1)
-            res = max(res, dp1[i] + dp2[i] - 1);
+            ans = max(ans, dp1[i] + dp2[i] - 1);
         }
 
-        return n - res;
+        return n - ans;
     }
 };
