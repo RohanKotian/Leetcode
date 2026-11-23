@@ -21,6 +21,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/RohanKotian/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RohanKotian/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RohanKotian/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RohanKotian/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RohanKotian/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RohanKotian/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RohanKotian/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RohanKotian/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RohanKotian/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RohanKotian/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -77,6 +79,7 @@
 | [1140-stone-game-ii](https://github.com/RohanKotian/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/RohanKotian/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RohanKotian/Leetcode/tree/master/1510-stone-game-iv) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RohanKotian/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RohanKotian/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/RohanKotian/Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3524-find-x-value-of-array-i](https://github.com/RohanKotian/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -87,6 +90,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RohanKotian/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RohanKotian/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RohanKotian/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/RohanKotian/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
