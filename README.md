@@ -6,6 +6,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/RohanKotian/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/RohanKotian/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/RohanKotian/Leetcode/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RohanKotian/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RohanKotian/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/RohanKotian/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RohanKotian/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -267,12 +268,14 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RohanKotian/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/RohanKotian/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RohanKotian/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
@@ -411,4 +414,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RohanKotian/Leetcode/tree/master/0322-coin-change) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RohanKotian/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
