@@ -253,6 +253,7 @@
 | [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/RohanKotian/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1106-parsing-a-boolean-expression](https://github.com/RohanKotian/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RohanKotian/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RohanKotian/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RohanKotian/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/RohanKotian/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RohanKotian/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1106-parsing-a-boolean-expression](https://github.com/RohanKotian/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -329,6 +331,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
+| [1106-parsing-a-boolean-expression](https://github.com/RohanKotian/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RohanKotian/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
