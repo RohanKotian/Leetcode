@@ -163,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RohanKotian/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/RohanKotian/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RohanKotian/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -333,6 +334,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RohanKotian/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/RohanKotian/Leetcode/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/RohanKotian/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RohanKotian/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
