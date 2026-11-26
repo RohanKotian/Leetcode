@@ -15,15 +15,13 @@ public:
         return result;
     }
     double myPow(double x, int n) {
-        bool neg = false;
         long long m = n;
         if(n < 0){
-            neg = true;
             m = abs(m);
         }
         double res = findPower(x, m);
-        if(neg){
-            res = 1/res;
+        if(n < 0){
+            res = 1.0 / res;
         }
         return res;
     }
